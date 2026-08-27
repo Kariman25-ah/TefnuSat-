@@ -130,4 +130,4 @@ embedded/
 
 ## License
 
-No license specified yet — add one (e.g. MIT, Apache-2.0) before making the repository public.
+No license specified yet 
